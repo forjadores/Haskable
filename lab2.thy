@@ -1,4 +1,4 @@
-theory lab2
+﻿theory lab2
 imports Main
 begin
 (*note: from Isabelle Tutorial*)
